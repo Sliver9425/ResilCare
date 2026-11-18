@@ -1,0 +1,27 @@
+# =========================
+# BACKEND (Python)
+# =========================
+backend/venv/
+backend/env/
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+
+# =========================
+# FRONTEND (Node / Next.js / React)
+# =========================
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+frontend/.env.production
+
+# =========================
+# GENERAL (OS & IDEs)
+# =========================
+.DS_Store
+.vscode/
